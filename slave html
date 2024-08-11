@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>SLAVESHOP</title>
+        <link rel = "stylesheet" href ='css1.css'>
+    </head>
+    <body>
+        <header class = 'top-header'>
+            <a class = 'menu brand' href = "salve.html">NIGGA SHOP</a>
+            <a class = 'menu' href = "https://www.youtube.com/watch?v=nILv4VN9IaA">FREE SLAVE</a>
+        </header>
+        <div class ='main-content'>
+            <div class="box" >
+                <h2 class="head2">FRESHY</h2>
+                <img class = 'img' src="7962.jpg">
+                <p class = "text    ">ClASS : COMPUTER ENGINEERING</p>
+                <p class = "text    ">A young and enthusiastic individual, eager to pursue a career in coding despite having no prior knowledge,</p>
+                <p class = "text    ">He is fully prepared to learn. He holds the belief that nothing could be more challenging than the entrance examination.</p>
+                <p class = "text    ">FEAR : NO FRIENDS</p>                
+                <a class = 'buttom' href ='#'>NO NEED TO DONATE</a>
+            </div>
+            <div class="box" >
+                <h2 class="head2">EREN YEAGER</h2>
+                <img class = 'img' src="453778407_8449344728423026_7726817220073390298_n.jpg">
+                <p class = "text    ">ClASS : MATHEMATICS ENGINEERING</p>
+                <p class = "text    ">      You can find him at the main library of Kasetsart University.</p>
+                <p class = "text    ">Upon delving into computer engineering, He came to realize that it is heavily rooted in mathematics. </p>
+                <p class ='text'>He would often find himself coding late into the night, to the point where sleep was almost non-existent.</p>
+                <p class ='text'>He doesn't give a fuck whether he has friends or not; he just wants to sleep.</p>
+                <p class = "text    ">      and a good way to start building a friendly relationship is by offering him a cup of coffee.</p>
+                <p class = "text    ">FEAR : GEADE F PHYSICS AND COM PROG</p>
+                <a class = 'buttom' href ='https://shopee.co.th/product/115146249/25151583609?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkWVp3RFo3Mkw5czd4Z0hzdEF1WVFibTJlck9LY1A5SW00b0dsSE5TbkNWRVl3ZUJubkRkS1l0Tm13OHdsK0J6Mk5UTW1KeEQ5QW84d0Z6b3orMm9FSzA1QmdTelBsUkxnQ2RVTHh5bnBVV1I'>DONATE HIM</a>
+            </div>
+            
+        </div>
+    </body>
+</html>
