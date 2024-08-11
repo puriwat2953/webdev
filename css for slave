@@ -1,0 +1,47 @@
+.html,body{background-color: rgb(52, 52, 52);}
+.top-header {
+    background-color: rgb(22, 22, 22);
+    margin: 10px;
+    padding:10px;
+}
+.menu{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+}
+.brand{
+    padding: 5px;
+    font-size: 30px;
+    font-weight: 1000;
+}
+.main-content{
+    max-width: 1000;
+    margin: auto;
+}
+.box{
+    background-color: rgb(239, 239, 239);
+    margin: 50px;
+}
+.img{Padding: 50px;
+    width: 50%;}
+.head2 {
+    font-size: 50px;
+    margin : 2px;
+    padding: 5px;
+
+}
+.text{
+    font-size: 30px;
+    Padding: 10px;
+    
+}
+.buttom{
+    margin:20px;
+    padding: 15px;
+    background-color: rgb(214, 34, 34);
+    text-decoration: none;
+    display: inline-block;
+    color: pink;
+}
